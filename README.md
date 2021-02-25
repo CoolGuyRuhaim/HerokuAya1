@@ -7,7 +7,7 @@ A modular Telegram bot running on python3 with an sqlalchemy database, with some
 
 You can simply deploy for own personal use click on below button.
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/zainulhibath/HerokuAya"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/CoolGuyRuhaim/HerokuAya1"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 
 ## Thanks to
@@ -20,4 +20,3 @@ You can simply deploy for own personal use click on below button.
 * FFBot - for translations functions
 And much more that we couldn't list it here!
 
-And Thanks to [other people's](https://github.com/Nitin1818/Logan/graphs/contributors) contributors also.
