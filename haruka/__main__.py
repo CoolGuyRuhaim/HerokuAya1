@@ -16,7 +16,7 @@ from haruka import dispatcher, updater, TOKEN, WEBHOOK, SUDO_USERS, OWNER_ID, CE
 
 #Needed to dynamically load modules
 #NOTE: Module order is not guaranteed, specify that in the config file!
-from haruka.modules import ALL_MODULES
+from haruka.modules.__init__ import ALL_MODULES
 from haruka.modules.helper_funcs.chat_status import is_user_admin
 from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help
@@ -138,11 +138,11 @@ def send_start(bot, update):
     text = "Hey there! My name is Haruka Aya - I'm here to help you manage your groups!\n\
 Click Help button to find out more about how to use me to my full potential.\n\n"
 
-    text += "Join [Faq Group](https://t.me/zainstechchat) ( @zainstechchat ) if you need any support or help\n\n\
-Follow [Zains Projects](https://t.me/zainsprojects) ( @ZainsProjects ) if you want to keep up with the news, updates and bot downtime!\n\n\
-\n\nWant to add me to your group? [Click here!](t.me/HarukaAyaBot?startgroup=true)"
+    text += "Join [Bot Help](https://t.me/OpensourceTG1) ( @OpensourceTG1 ) if you need any support or help\n\n\
+if you want to keep up with the news, updates and bot downtime!\n\n\
+\n\nWant to add me to your group? [Click here!](t.me/harukacloneayabot?startgroup=true)"
 
-    keyboard = [[InlineKeyboardButton(text="📢 Support Group", url="https://t.me/HarukaAyaGroup")]]
+    keyboard = [[InlineKeyboardButton(text="📢 Support Group", url="https://t.me/OpensourceTG1")]]
     keyboard += [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]
     keyboard += [[InlineKeyboardButton(text="🇺🇸 Language", callback_data="set_lang_"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
