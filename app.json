@@ -24,8 +24,8 @@
       "value": "1635385413"
     },
     "OWNER_USERNAME": {
-      "description": "@Covid19MEGAUP",
-      "value": ""
+      "description": "Your Username",
+      "value": "@Covid19MEGAUP"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
