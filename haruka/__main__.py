@@ -39,7 +39,7 @@ Watch [video tutorial](https://www.youtube.com/watch?v=gXXFpTAk6Vo&feature=youtu
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by clicking [here](http://t.me/TG_MANAGER2BOT?startgroup=true).
+ Add me to a group by clicking [here](http://t.me/harukacloneayabot?startgroup=true).
 """
 
 
