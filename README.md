@@ -12,11 +12,9 @@ You can simply deploy for own personal use click on below button.
 
 ## Thanks to
 
-* @MrYacha - For pYanaBot :3
-* @skittles9823 - for memes and sticker stuff
-* @1mavarick1 - gmutes, etc 
-* @AyraHikari - weather, reports and Reworked on fed etc.
-* @PaulsonofLars - marie creator, inspiration to do many things
+* @DontBelieveAnybody - For pYanaBot :3
+* @Yash_MK - for memes and sticker stuff
+* @Ajmal_Media_Works - gmutes, etc 
 * FFBot - for translations functions
 And much more that we couldn't list it here!
 
